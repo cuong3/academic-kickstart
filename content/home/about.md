@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-01-23T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,17 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Human-Computer Interaction",
+    "Virtual Reality"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
+I received my PhD in Computer Science in Fall 2017. I am advised by [Professor Feng Liu](http://web.cecs.pdx.edu/~fliu/) in the Computer Graphics & Vision Lab at Portland State University.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research is in Human-Computer Interaction. My PhD's research theme explores novel visualization and interaction techniques for video. Most recently, I've been exploring Virtual Reality interfaces to support media production. My research has received Best Paper Honorable Mention awards at ACM CHI 2013, 2015, and 2017.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Starting November 2017, I'm a research scientist at Adobe's Creative Intelligence Lab, San Francisco, California.
