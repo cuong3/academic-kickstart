@@ -27,6 +27,7 @@ abstract = "Taking notes has been shown helpful for learning. This activity, how
 abstract_short = "We develop a gaze-based system to assist a user in notetaking while watching lecture videos."
 
 # Featured image thumbnail (optional)
+preview = true  # Show a thumbnail in listings?
 image_preview = "tutordmvnicon_small.png"
 
 # Is this a selected publication? (true/false)
