@@ -62,9 +62,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "tutordmvnicon_small.png"
+image = ""
 caption = ""
-preview = true  # Show a thumbnail in listings?
+#preview = true  # Show a thumbnail in listings?
 
 +++
 
