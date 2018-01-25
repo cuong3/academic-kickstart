@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Making Software Tutorial Video Responsive "
 
 # Date first published.
-date = "2013-07-01"
+date = "2015-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Cuong Nguyen", "Feng Liu"]
 
 # Publication type.
 # Legend:
@@ -19,15 +19,15 @@ authors = ["First author's name", "Second author's name"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "In *Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems*. You may use *Markdown* for italics etc."
+publication_short = "In *ACM CHI*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "Tutorial videos are widely available to help people use software. These videos, however, are viewed by users as captured and offer little direct interaction between users and software. This paper presents a video navigation method that allows users to interact with software tutorial video as if they were using the software. To make the tutorial video responsive, our method records the user interaction events like mouse click and drag during capturing the video. Our method then analyzes, selects, and visualizes these user interaction events at the event locations. When a user directly interacts with an event visualization, our method automatically navigates to the proper video frame to provide the visual feedback as if the software were responding to the user input. Thus, our method provides the experience of interacting with the software through directly manipulating the tutorial video. Our study shows our method can better help users follow tutorial videos to complete tasks than the baseline timeline interface.""
+abstract_short = "This paper presents a video navigation method that allows users to interact with software tutorial video as if they were using the software."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "headers/tutordmvnicon_small.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -39,11 +39,11 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "http://web.cecs.pdx.edu/~fliu/project/tutorDMVN/"
 url_slides = ""
 url_video = ""
 url_poster = ""
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/tutordmvnicon_small.png"
 caption = "My caption 😄"
 
 +++
