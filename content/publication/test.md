@@ -27,7 +27,7 @@ abstract = "Tutorial videos are widely available to help people use software. Th
 abstract_short = "This paper presents a video navigation method that allows users to interact with software tutorial video as if they were using the software."
 
 # Featured image thumbnail (optional)
-image_preview = "tutordmvnicon_small.png"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
