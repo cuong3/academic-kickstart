@@ -27,8 +27,7 @@ abstract = "Tutorial videos are widely available to help people use software. Th
 abstract_short = "This paper presents a video navigation method that allows users to interact with software tutorial video as if they were using the software."
 
 # Featured image thumbnail (optional)
-preview = true  # Show a thumbnail in listings?
-image_preview = "headers/tutordmvnicon_small.png"
+image_preview = "tutordmvnicon_small.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -63,8 +62,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/tutordmvnicon_small.png"
-caption = "My caption 😄"
+image = "tutordmvnicon_small.png"
+caption = ""
+preview = true  # Show a thumbnail in listings?
 
 +++
 
