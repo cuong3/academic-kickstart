@@ -1,8 +1,8 @@
 +++
-title = "Making Software Tutorial Video Responsive "
+title = "Gaze-based Notetaking for Learning from Lecture Videos"
 
 # Date first published.
-date = "2015-05-01"
+date = "2016-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Cuong Nguyen", "Feng Liu"]
@@ -19,15 +19,15 @@ authors = ["Cuong Nguyen", "Feng Liu"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems*"
+publication = "In *Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems*"
 publication_short = "In *ACM CHI*"
 
 # Abstract and optional shortened version.
-abstract = "Tutorial videos are widely available to help people use software. These videos, however, are viewed by users as captured and offer little direct interaction between users and software. This paper presents a video navigation method that allows users to interact with software tutorial video as if they were using the software. To make the tutorial video responsive, our method records the user interaction events like mouse click and drag during capturing the video. Our method then analyzes, selects, and visualizes these user interaction events at the event locations. When a user directly interacts with an event visualization, our method automatically navigates to the proper video frame to provide the visual feedback as if the software were responding to the user input. Thus, our method provides the experience of interacting with the software through directly manipulating the tutorial video. Our study shows our method can better help users follow tutorial videos to complete tasks than the baseline timeline interface."
-abstract_short = "This paper presents a video navigation method that allows users to interact with software tutorial video as if they were using the software."
+abstract = "Taking notes has been shown helpful for learning. This activity, however, is not well supported when learning from watching lecture videos. The conventional video interface does not allow users to quickly locate and annotate important content in the video as notes. Moreover, users sometimes need to manually pause the video while taking notes, which is often distracting. In this paper, we develop a gaze-based system to assist a user in notetaking while watching lecture videos. Our system has two features to support notetaking. First, our system integrates offline video analysis and online gaze analysis to automatically detect and recommend key content from the lecture video as notes. Second, our system provides adaptive video playback control that automatically reduces the video playback speed or pauses it while a user is taking notes to minimize the user's effort in controlling video. Our study shows that our system enables users to take notes more easily and with better quality than the traditional video interface."
+abstract_short = "We develop a gaze-based system to assist a user in notetaking while watching lecture videos."
 
 # Featured image thumbnail (optional)
-image_preview = "headers/tutordmvnicon_small.png"
+image_preview = "tutordmvnicon_small.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/tutordmvnicon_small.png"
+image = "tutordmvnicon_small.png"
 caption = "My caption 😄"
 
 +++
