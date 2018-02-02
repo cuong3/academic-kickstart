@@ -19,7 +19,7 @@ count = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 0
+list_format = 3
 
 # Filter by publication type.
 # -1: Any
@@ -38,17 +38,3 @@ exclude_selected = false
 
 
 +++
-
-![alternative text for search engines](/img/GazeNoter_small.png)
-Gaze-based Notetaking for Learning from Lecture Videos
-
-asdasd
-
-<div style="float:left"><img src="/img/GazeNoter_small.png"</div>
-<div style="float:right">Gaze-based Notetaking for Learning from Lecture Videos</div>
-<div style="clear:both"/>
-
-
-<div style="float:left"><img src="/img/tutordmvnicon_small.png"</div>
-<div style="float:right">Exclude publications that are shown in the Selected Publications widget?</div>
-<div style="clear:both"/>
