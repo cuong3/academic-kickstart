@@ -248,6 +248,11 @@ defaultContentLanguageInSubdir = false
   url = "#publications"
   weight = 2
 
+[[menu.main]]
+  name = "Pubs"
+  url = "#publist"
+  weight = 3  
+
 #[[menu.main]]
 #  name = "Contact"
 #  url = "#contact"
