@@ -248,11 +248,11 @@ defaultContentLanguageInSubdir = false
   url = "#publications"
   weight = 2
 
-[menu.main]]
- name = "Contact"
- url = "#contact"
- weight = 3
-
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 3
+#
 ## Taxonomies.
 #[taxonomies]
 #  tag = "tags"
