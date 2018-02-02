@@ -4,8 +4,11 @@ widget = "publist"
 active = true
 date = "2018-01-23T00:00:00"
 
+title = "Recent Posts"
+subtitle = ""
+
 # Order that this section will appear in.
-weight = 3
+weight = 40
 
 +++
 
