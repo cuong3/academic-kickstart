@@ -45,9 +45,10 @@ Gaze-based Notetaking for Learning from Lecture Videos
 asdasd
 
 <div style="float:left"><img src="/img/GazeNoter_small.png"</div>
-<div style="float:left">Gaze-based Notetaking for Learning from Lecture Videos</div>
+<div style="float:right">Gaze-based Notetaking for Learning from Lecture Videos</div>
 <div style="clear:both"/>
 
-<div style="float:left"><img src="static/img/tutordmvnicon_small.png"</div>
-<div style="float:left">text 2</div>
+
+<div style="float:left"><img src="/img/tutordmvnicon_small.png"</div>
+<div style="float:right">Exclude publications that are shown in the Selected Publications widget?</div>
 <div style="clear:both"/>
