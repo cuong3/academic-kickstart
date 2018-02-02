@@ -36,5 +36,19 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-sdfsdfsdf
-sdfsdf
+![alternative text for search engines](/img/GazeNoter_small.png)
+Gaze-based Notetaking for Learning from Lecture Videos
+
+asdasd
+
+
+
+[[gallery_item]]
+album = "1"
+image = "GazeNoter_small.png"
+caption = "Write your image caption here"
+    
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
+caption = "Dark theme"
