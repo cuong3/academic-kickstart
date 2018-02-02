@@ -35,15 +35,7 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 
-[[gallery_item]]
-album = "1"
-image = "GazeNoter_small.png"
-caption = "Write your image caption here"
-    
-[[gallery_item]]
-album = "1"
-image = "tutordmvnicon_small.png"
-caption = "Dark theme"
+
 
 +++
 
@@ -52,5 +44,10 @@ Gaze-based Notetaking for Learning from Lecture Videos
 
 asdasd
 
-{{< gallery album="1" >}}
+<div style="float:left"><img src="/img/GazeNoter_small.png"</div>
+<div style="float:right">text</div>
+<div style="clear:both"/>
 
+<div style="float:left"><img src="static/img/tutordmvnicon_small.png"</div>
+<div style="float:right">text 2</div>
+<div style="clear:both"/>
