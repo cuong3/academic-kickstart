@@ -19,7 +19,7 @@ count = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
+list_format = 0
 
 # Filter by publication type.
 # -1: Any
@@ -34,14 +34,6 @@ publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
-+++
-
-![alternative text for search engines](/img/GazeNoter_small.png)
-Gaze-based Notetaking for Learning from Lecture Videos
-
-asdasd
-
-
 
 [[gallery_item]]
 album = "1"
@@ -50,5 +42,15 @@ caption = "Write your image caption here"
     
 [[gallery_item]]
 album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
+image = "tutordmvnicon_small.png"
 caption = "Dark theme"
+
++++
+
+![alternative text for search engines](/img/GazeNoter_small.png)
+Gaze-based Notetaking for Learning from Lecture Videos
+
+asdasd
+
+{{< gallery album="1" >}}
+
