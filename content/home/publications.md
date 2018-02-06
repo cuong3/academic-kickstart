@@ -38,6 +38,7 @@ exclude_selected = false
 
 
 +++
+<div>
 <div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
   <img src="img/GazeNoter_small.png" style="height:3.8cm;">
 </div>
@@ -51,8 +52,9 @@ exclude_selected = false
   </p>
 </div>
 <div style="clear:both"/></div>
+</div>
 
-
+<div>
 <div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
   <img src="img/tutordmvnicon_small.png" style="height:3.8cm;">
 </div>
@@ -66,3 +68,4 @@ exclude_selected = false
   </p>
 </div>
 <div style="clear:both"/></div>
+</div>
