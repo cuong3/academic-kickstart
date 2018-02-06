@@ -42,7 +42,11 @@ exclude_selected = false
   <img src="img/GazeNoter_small.png" style="height:3.8cm;">
 </div>
 <div style="display:inline-block;vertical-align: middle;">
-  Cuong Nguyen, Feng Liu. Gaze-based Notetaking for Learning from Lecture Videos. In ACM CHI, 2016.
+  Gaze-based Notetaking for Learning from Lecture Videos. 
+  <br>
+  Cuong Nguyen, Feng Liu. 
+  <br>
+  In ACM CHI, 2016.
 </div>
 <div style="clear:both"/>
 
@@ -51,6 +55,10 @@ exclude_selected = false
   <img src="img/tutordmvnicon_small.png" style="height:3.8cm;">
 </div>
 <div style="display:inline-block;vertical-align: middle;">
-  Cuong Nguyen, Feng Liu. Making Software Tutorial Video Responsive . In ACM CHI, 2015.
+  Making Software Tutorial Video Responsive   
+  <br>
+  Cuong Nguyen, Feng Liu. 
+  <br>
+  In ACM CHI, 2015.
 </div>
 <div style="clear:both"/>
