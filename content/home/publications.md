@@ -39,7 +39,7 @@ exclude_selected = false
 
 +++
 <div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
-  <img src="img/depthconflict.png" width="20%" height="20%">
+  <img src="img/depthconflict.png" width="15%" height="15%">
 </div>
 <div style="display:inline-block;vertical-align: top;">
   <p>
@@ -75,7 +75,7 @@ exclude_selected = false
   <br>
   Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
   <br>
-  In ACM CHI, 2017.
+  In ACM CHI, 2017. <font color="red">(Best paper honorable mention award)</font>
   </p>
 </div>
 <div style="clear:both"/></div>
