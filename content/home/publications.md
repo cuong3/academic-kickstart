@@ -39,6 +39,21 @@ exclude_selected = false
 
 +++
 <div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
+  <img src="img/depthconflict.png" width="70%" height="70%">
+</div>
+<div style="display:inline-block;vertical-align: top;">
+  <p>
+  Depth Conflict Reduction for Stereo VR Video Interfaces 
+  <br>
+  Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
+  <br>
+  In ACM CHI, 2018.
+  </p>
+</div>
+<div style="clear:both"/></div>
+
+
+<div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
   <img src="img/GazeNoter_small.png" width="70%" height="70%">
 </div>
 <div style="display:inline-block;vertical-align: top;">
