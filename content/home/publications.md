@@ -38,9 +38,8 @@ exclude_selected = false
 
 
 +++
-<div>
 <div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
-  <img src="img/GazeNoter_small.png" width="50%" height="50%">
+  <img src="img/GazeNoter_small.png" width="70%" height="70%">
 </div>
 <div style="display:inline-block;vertical-align: top;">
   <p>
@@ -52,11 +51,9 @@ exclude_selected = false
   </p>
 </div>
 <div style="clear:both"/></div>
-</div>
 
-<div>
 <div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
-  <img src="img/tutordmvnicon_small.png" width="50%" height="50%">
+  <img src="img/tutordmvnicon_small.png" width="70%" height="70%">
 </div>
 <div style="display:inline-block;vertical-align: top;">
   <p>
@@ -64,8 +61,7 @@ exclude_selected = false
   <br>
   Cuong Nguyen, Feng Liu. 
   <br>
-  In ACM CHI, 2015.
+  In ACM CHI, 2015. <font color="red">(Best paper honorable mention award)</font>
   </p>
 </div>
 <div style="clear:both"/></div>
-</div>
