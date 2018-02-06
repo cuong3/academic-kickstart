@@ -39,7 +39,7 @@ exclude_selected = false
 
 +++
 <div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
-  <img src="img/depthconflict.png" width="70%" height="70%">
+  <img src="img/depthconflict.png" width="20%" height="20%">
 </div>
 <div style="display:inline-block;vertical-align: top;">
   <p>
@@ -52,13 +52,41 @@ exclude_selected = false
 </div>
 <div style="clear:both"/></div>
 
+<div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
+  <img src="img/collavr.jpg" width="70%" height="70%">
+</div>
+<div style="display:inline-block;vertical-align: top;">
+  <p>
+  CollaVR: Collaborative In-Headset Review for VR Video 
+  <br>
+  Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
+  <br>
+  In ACM UIST, 2017.
+  </p>
+</div>
+<div style="clear:both"/></div>
+
+<div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
+  <img src="img/vremiere.png" width="70%" height="70%">
+</div>
+<div style="display:inline-block;vertical-align: top;">
+  <p>
+  Vremiere: In-headset Virtual Reality Video Editing 
+  <br>
+  Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
+  <br>
+  In ACM CHI, 2017.
+  </p>
+</div>
+<div style="clear:both"/></div>
+
 
 <div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
   <img src="img/GazeNoter_small.png" width="70%" height="70%">
 </div>
 <div style="display:inline-block;vertical-align: top;">
   <p>
-  Gaze-based Notetaking for Learning from Lecture Videos. 
+  Gaze-based Notetaking for Learning from Lecture Videos
   <br>
   Cuong Nguyen, Feng Liu. 
   <br>
