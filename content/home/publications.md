@@ -39,8 +39,8 @@ exclude_selected = false
 
 +++
 <div>
-<div style="display:inline-block; min-width:1.2cm; height:3.8cm; align: center;vertical-align: top;" >
-  <img src="img/GazeNoter_small.png" style="height:3.8cm;">
+<div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
+  <img src="img/GazeNoter_small.png" width="50%" height="50%">
 </div>
 <div style="display:inline-block;vertical-align: top;">
   <p>
@@ -55,8 +55,8 @@ exclude_selected = false
 </div>
 
 <div>
-<div style="display:inline-block; min-width:1.2cm; height:3.8cm; align: center;vertical-align: top;" >
-  <img src="img/tutordmvnicon_small.png" style="height:3.8cm;">
+<div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
+  <img src="img/tutordmvnicon_small.png" width="50%" height="50%">
 </div>
 <div style="display:inline-block;vertical-align: top;">
   <p>
