@@ -39,11 +39,11 @@ exclude_selected = false
 
 +++
 <div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
-  <img src="img/depthconflict.png" width="15%" height="15%">
+  <img src="img/depthconflict.png" width="20%" height="20%">
 </div>
 <div style="display:inline-block;vertical-align: top;">
   <p>
-  Depth Conflict Reduction for Stereo VR Video Interfaces 
+  Depth Conflict Reduction for Stereo VR Video
   <br>
   Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
   <br>
