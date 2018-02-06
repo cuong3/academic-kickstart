@@ -41,6 +41,13 @@ exclude_selected = false
 <div id="qr" style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
   <img src="img/GazeNoter_small.png" style="height:3.8cm;">
 </div>
-<div style="display:inline-block;vertical-align: middle;">
-  sample text
+<div style="display:inline-block;vertical-align: top;">
+  Cuong Nguyen, Feng Liu. Gaze-based Notetaking for Learning from Lecture Videos. In ACM CHI, 2016.
+</div>
+
+<div id="qr" style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
+  <img src="img/tutordmvnicon_small.png" style="height:3.8cm;">
+</div>
+<div style="display:inline-block;vertical-align: top;">
+  Cuong Nguyen, Feng Liu. Making Software Tutorial Video Responsive . In ACM CHI, 2015.
 </div>
