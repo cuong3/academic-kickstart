@@ -54,7 +54,7 @@ exclude_selected = false
 </div>
 <div style="clear:both"/></div>
 
-[Depth Conflict Reduction for Stereo VR Video Interfaces]({{< ref "depthconflict.md" >}})
+
 
 
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
