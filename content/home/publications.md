@@ -39,10 +39,10 @@ exclude_selected = false
 
 +++
 
-<div style="display:inline-block; max-width:25%; align: center;vertical-align: top;" >
+<div style="display:inline-block; float: left; max-width:25%; align: center;vertical-align: top;" >
   <img src="img/depthconflict.png" width="70%" height="70%">
 </div>
-<div style="display:inline-block; max-width:75%;vertical-align: top;">
+<div style="display:inline-block; float: right; max-width:75%;vertical-align: top;">
   <p>
   Depth Conflict Reduction for Stereo VR Video Interfaces 
   <br>
@@ -55,10 +55,10 @@ exclude_selected = false
 
 
 
-<div style="display:inline-block; max-width:25%; align: center;vertical-align: top;" >
+<div style="display:inline-block; float: left; max-width:25%; align: center;vertical-align: top;" >
   <img src="img/collavr.jpg" width="70%" height="70%">
 </div>
-<div style="display:inline-block; max-width:75%;vertical-align: top;">
+<div style="display:inline-block; float: right; max-width:75%;vertical-align: top;">
   <p>
   CollaVR: Collaborative In-Headset Review for VR Video 
   <br>
@@ -71,10 +71,10 @@ exclude_selected = false
 
 
 
-<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
+<div style="display:inline-block; float: left; max-width:25%;  align: center;vertical-align: top;" >
   <img src="img/vremiere.png" width="70%" height="70%">
 </div>
-<div style="display:inline-block; max-width:75%;vertical-align: top;">
+<div style="display:inline-block; float: right; max-width:75%;vertical-align: top;">
   <p>
   Vremiere: In-headset Virtual Reality Video Editing 
   <br>
@@ -87,10 +87,10 @@ exclude_selected = false
 
 
 
-<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
+<div style="display:inline-block; float: left; max-width:25%;  align: center;vertical-align: top;" >
   <img src="img/GazeNoter_small.png" width="70%" height="70%">
 </div>
-<div style="display:inline-block; max-width:75%;vertical-align: top;">
+<div style="display:inline-block; float: right; max-width:75%;vertical-align: top;">
   <p>
   Gaze-based Notetaking for Learning from Lecture Videos
   <br>
@@ -103,10 +103,10 @@ exclude_selected = false
 
 
 
-<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
+<div style="display:inline-block; float: left; max-width:25%;  align: center;vertical-align: top;" >
   <img src="img/tutordmvnicon_small.png" width="70%" height="70%">
 </div>
-<div style="display:inline-block; max-width:75%;vertical-align: top;">
+<div style="display:inline-block; float: right; max-width:75%;vertical-align: top;">
   <p>
   Making Software Tutorial Video Responsive   
   <br>
@@ -136,10 +136,10 @@ exclude_selected = false
 
 
 
-<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
-  <img src="img/dmvntouch.png width="70%" height="70%">
+<div style="display:inline-block; float: left; max-width:25%;  align: center;vertical-align: top;" >
+  <img src="img/dmvntouch.png" width="70%" height="70%">
 </div>
-<div style="display:inline-block; max-width:75%;vertical-align: top;">
+<div style="display:inline-block; float: right; max-width:75%;vertical-align: top;">
   <p>
   <a href = "http://web.cecs.pdx.edu/~fliu/project/TouchDMVN" target="_blank">
   Direct Manipulation Video Navigation on Touch Screens</a>
@@ -153,10 +153,10 @@ exclude_selected = false
 
 
 
-<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
+<div style="display:inline-block; float: left; max-width:25%;  align: center;vertical-align: top;" >
   <img src="img/dmvn3d.jpg" width="70%" height="70%">
 </div>
-<div style="display:inline-block; max-width:75%;vertical-align: top;">
+<div style="display:inline-block; float: right; max-width:75%;vertical-align: top;">
   <p>
   <a href = "http://web.cecs.pdx.edu/~fliu/project/3DDMVN" target="_blank">
   Direct Manipulation Video Navigation in 3D</a>
@@ -170,10 +170,10 @@ exclude_selected = false
 
 
 
-<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
+<div style="display:inline-block; float: left; max-width:25%;  align: center;vertical-align: top;" >
   <img src="img/summagator.jpg" width="70%" height="70%">
 </div>
-<div style="display:inline-block; max-width:75%;vertical-align: top; overflow: hidden;">
+<div style="display:inline-block; float: right; max-width:75%;vertical-align: top;">
   <p>
   <a href = "http://web.cecs.pdx.edu/~fliu/project/summagator" target="_blank">
   Video Summagator: An Interface for Video Summarization and Navigation</a>
