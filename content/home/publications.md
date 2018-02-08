@@ -40,10 +40,10 @@ exclude_selected = false
 +++
 
 
-<div style="display:inline-block; max-width:20%; height:3.8cm; align: center;vertical-align: top;" >
+<div style="display:inline-block; max-width:30%; height:3.8cm; align: center;vertical-align: top;" >
   <img src="img/depthconflict.png" width="20%" height="20%">
 </div>
-<div style="display:inline-block;max-width:80%;vertical-align: top;">
+<div style="display:inline-block;max-width:70%;vertical-align: top;">
   <p>
   Depth Conflict Reduction for Stereo VR Video Interfaces 
   <br>
@@ -54,10 +54,10 @@ exclude_selected = false
 </div>
 <div style="clear:both"/></div>
 
-<div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: top;" >
+<div style="display:inline-block; min-width:30%; height:3.8cm; align: center;vertical-align: top;" >
   <img src="img/collavr.jpg" width="70%" height="70%">
 </div>
-<div style="display:inline-block;vertical-align: top;">
+<div style="display:inline-block;max-width:70%;vertical-align: top;">
   <p>
   CollaVR: Collaborative In-Headset Review for VR Video 
   <br>
