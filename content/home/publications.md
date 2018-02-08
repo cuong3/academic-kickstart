@@ -50,7 +50,7 @@ exclude_selected = false
   <br>
   In ACM CHI, 2018.
   <br>
-  [My CV asd]{{< ref "about.md" >}}
+  [My CV asd]({{< ref "project/test.md" >}})
   </p>
 </div>
 <div style="clear:both"/></div>
