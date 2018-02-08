@@ -25,4 +25,4 @@ My research is in Human-Computer Interaction. My PhD's research theme explores n
 
 Starting November 2017, I'm a research scientist at [Adobe's Creative Intelligence Lab](https://research.adobe.com/), San Francisco, California.
 
-{{% staticref "files/CV(Jan 2018).pdf" %}}[Download my CV (updated Jan 2018)]{{% /staticref %}}
+{{% staticref "files/CV(Jan 2018).pdf" %}}[CV (updated Jan 2018)]{{% /staticref %}}
