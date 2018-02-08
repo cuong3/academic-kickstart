@@ -49,8 +49,7 @@ exclude_selected = false
   Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
   <br>
   In ACM CHI, 2018.
-  <br>
-  
+  <br> 
   </p>
 </div>
 <div style="clear:both"/></div>
