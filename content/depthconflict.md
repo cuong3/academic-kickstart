@@ -1,5 +1,5 @@
 +++
-date = 2018-27-04
+date = 2018-04-27
 title = "Depth Conflict Reduction for Stereo VR Video Interfaces"
  
 +++
