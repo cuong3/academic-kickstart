@@ -1,14 +1,10 @@
 +++
-date = 2017-12-01
-title = "My first blog post"
+date = 20178-27-04
+title = "Depth Conflict Reduction for Stereo VR Video Interfaces"
  
 +++
 
-# Biography
-I received my PhD in Computer Science in Fall 2017. I am advised by [Professor Feng Liu](http://web.cecs.pdx.edu/~fliu/) in the [Computer Graphics & Vision Lab](http://graphics.cs.pdx.edu/) at Portland State University.
+# Abstract
+Applications for viewing and editing 360° video often render user interface (UI) elements on top of the video. For stereoscopic video, in which the perceived depth varies over the image, the perceived depth of the video can conﬂict with that of the UI elements, creating discomfort and making it hard to shift focus. To address this problem, we explore two new techniques that adjust the UI rendering based on the video content. The ﬁrst technique dynamically adjusts the perceived depth of the UI to avoid depth conﬂict, and the second blurs the video in a halo around the UI. We conduct a user study to assess the effectiveness of these techniques in two stereoscopic VR video tasks: video watching with subtitles, and video search.
 
-My research is in Human-Computer Interaction. My PhD's research theme explores novel visualization and interaction techniques for video. Most recently, I've been exploring Virtual Reality interfaces to support media production. My research has received **Best Paper Honorable Mention** awards at ACM CHI 2013, 2015, and 2017.
-
-Starting November 2017, I'm a research scientist at [Adobe's Creative Intelligence Lab](https://research.adobe.com/), San Francisco, California.
-
-{{% staticref "files/CV(Jan 2018).pdf" %}}[Download my CV (updated Jan 2018)]{{% /staticref %}}
+{{% staticref "files/CV(Jan 2018).pdf" %}}[[PDF]{{% /staticref %}}
