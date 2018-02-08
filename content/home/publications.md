@@ -43,8 +43,8 @@ exclude_selected = false
   <img src="img/depthconflict.png" width="70%" height="70%">
 </div>
 <div style="display:inline-block; float: right; width:75%;vertical-align: top;">
-  <p>
   [Depth Conflict Reduction for Stereo VR Video Interfaces]({{< ref "project_chi2018.md" >}})
+  <p>
   <br>
   Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
   <br>
@@ -55,7 +55,7 @@ exclude_selected = false
 </div>
 <div style="clear:both"/></div>
 
-
+[Depth Conflict Reduction for Stereo VR Video Interfaces]({{< ref "project_chi2018.md" >}})
 
 
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
