@@ -119,10 +119,10 @@ exclude_selected = false
 
 
 
-<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
+<div style="display:inline-block; float: left; max-width:25%;align: center;vertical-align: top;" >
   <img src="img/hotspot.jpg" width="70%" height="70%">
 </div>
-<div style="display:inline-block; max-width:75%;vertical-align: top;">
+<div style="display:inline-block; float: right; max-width:75%;vertical-align: top;">
   <p>
   <a href = "http://web.cecs.pdx.edu/~fliu/project/hotspot/" target="_blank">
   Hotspot: Making Computer Vision More Effective for Human Video Surveillance </a>
@@ -137,7 +137,7 @@ exclude_selected = false
 
 
 <div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
-  <img src="img/hotspot.jpg" width="70%" height="70%">
+  <img src="img/dmvntouch.png width="70%" height="70%">
 </div>
 <div style="display:inline-block; max-width:75%;vertical-align: top;">
   <p>
@@ -154,7 +154,7 @@ exclude_selected = false
 
 
 <div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
-  <img src="img/hotspot.jpg" width="70%" height="70%">
+  <img src="img/dmvn3d.jpg" width="70%" height="70%">
 </div>
 <div style="display:inline-block; max-width:75%;vertical-align: top;">
   <p>
@@ -171,9 +171,9 @@ exclude_selected = false
 
 
 <div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
-  <img src="img/hotspot.jpg" width="70%" height="70%">
+  <img src="img/summagator.jpg" width="70%" height="70%">
 </div>
-<div style="display:inline-block; max-width:75%;vertical-align: top;">
+<div style="display:inline-block; max-width:75%;vertical-align: top; overflow: hidden;">
   <p>
   <a href = "http://web.cecs.pdx.edu/~fliu/project/summagator" target="_blank">
   Video Summagator: An Interface for Video Summarization and Navigation</a>
