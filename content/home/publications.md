@@ -44,11 +44,13 @@ exclude_selected = false
 </div>
 <div style="display:inline-block; float: right; width:75%;vertical-align: top;">
   <p>
-  Depth Conflict Reduction for Stereo VR Video Interfaces 
+  <a href = "http://web.cecs.pdx.edu/~fliu/project/gazenote/" target="_blank">Depth Conflict Reduction for Stereo VR Video Interfaces</a> 
   <br>
   Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
   <br>
   In ACM CHI, 2018.
+  <br>
+  [My CV asd]{{< ref "about.md" >}}
   </p>
 </div>
 <div style="clear:both"/></div>
@@ -60,7 +62,7 @@ exclude_selected = false
 </div>
 <div style="display:inline-block; float: right; width:75%;vertical-align: top;">
   <p>
-  CollaVR: Collaborative In-Headset Review for VR Video 
+  <a href = "http://web.cecs.pdx.edu/~fliu/project/collavr/" target="_blank">CollaVR: Collaborative In-Headset Review for VR Video</a> 
   <br>
   Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
   <br>
@@ -76,7 +78,7 @@ exclude_selected = false
 </div>
 <div style="display:inline-block; float: right; width:75%;vertical-align: top;">
   <p>
-  Vremiere: In-headset Virtual Reality Video Editing 
+  <a href = "http://web.cecs.pdx.edu/~fliu/project/vremiere/" target="_blank">Vremiere: In-headset Virtual Reality Video Editing </a>
   <br>
   Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
   <br>
