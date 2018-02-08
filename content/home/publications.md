@@ -56,6 +56,10 @@ exclude_selected = false
 <div style="clear:both"/></div>
 
 [My CV asd]({{< ref "about.md" >}})
+{{% staticref "files/CV(Jan 2018).pdf" %}}[1212]{{% /staticref %}}
+{{% staticref "project/chi2018_depthconflict.md" %}}[dfgdfg]{{% /staticref %}}
+<br>
+<a href = "project/chi2018_depthconflict.md" target="_blank"> asdasd </a>
 
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
   <img src="img/collavr.jpg" width="70%" height="70%">
