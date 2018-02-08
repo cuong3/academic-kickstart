@@ -68,7 +68,7 @@ exclude_selected = false
 </div>
 <div style="clear:both"/></div>
 
-<div style="display:inline-block; max-width:25%; height:3.8cm; align: center;vertical-align: top;" >
+<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
   <img src="img/vremiere.png" width="70%" height="70%">
 </div>
 <div style="display:inline-block; max-width:75%;vertical-align: top;">
@@ -83,7 +83,7 @@ exclude_selected = false
 <div style="clear:both"/></div>
 
 
-<div style="display:inline-block; max-width:25%; height:3.8cm; align: center;vertical-align: top;" >
+<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
   <img src="img/GazeNoter_small.png" width="70%" height="70%">
 </div>
 <div style="display:inline-block; max-width:75%;vertical-align: top;">
@@ -97,7 +97,7 @@ exclude_selected = false
 </div>
 <div style="clear:both"/></div>
 
-<div style="display:inline-block; max-width:25%; height:3.8cm; align: center;vertical-align: top;" >
+<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
   <img src="img/tutordmvnicon_small.png" width="70%" height="70%">
 </div>
 <div style="display:inline-block; max-width:75%;vertical-align: top;">
