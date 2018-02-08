@@ -80,7 +80,7 @@ exclude_selected = false
   <br>
   Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
   <br>
-  In ACM CHI, 2017. <font color="red">(Best paper honorable mention award)</font>
+  In ACM CHI, 2017 <font color="red">(Best paper honorable mention award)</font>
   </p>
 </div>
 <div style="clear:both"/></div>
@@ -112,7 +112,7 @@ exclude_selected = false
   <br>
   Cuong Nguyen, Feng Liu. 
   <br>
-  In ACM CHI, 2015. <font color="red">(Best paper honorable mention award)</font>
+  In ACM CHI, 2015 <font color="red">(Best paper honorable mention award)</font>
   </p>
 </div>
 <div style="clear:both"/></div>
@@ -130,8 +130,57 @@ exclude_selected = false
   Cuong Nguyen, Wu-chi Feng, Feng Liu
   <br>
   Information Visualization
+  </p>
+</div>
+<div style="clear:both"/></div>
+
+
+
+<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
+  <img src="img/hotspot.jpg" width="70%" height="70%">
+</div>
+<div style="display:inline-block; max-width:75%;vertical-align: top;">
+  <p>
+  <a href = "http://web.cecs.pdx.edu/~fliu/project/TouchDMVN" target="_blank">
+  Direct Manipulation Video Navigation on Touch Screens</a>
   <br>
-  {{% staticref "http://web.cecs.pdx.edu/~fliu/project/hotspot/ %}}Project{{% /staticref %}}.
+  Cuong Nguyen, Yuzhen Niu, Feng Liu
+  <br>
+  In ACM MobileHCI, 2014
+  </p>
+</div>
+<div style="clear:both"/></div>
+
+
+
+<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
+  <img src="img/hotspot.jpg" width="70%" height="70%">
+</div>
+<div style="display:inline-block; max-width:75%;vertical-align: top;">
+  <p>
+  <a href = "http://web.cecs.pdx.edu/~fliu/project/3DDMVN" target="_blank">
+  Direct Manipulation Video Navigation in 3D</a>
+  <br>
+  Cuong Nguyen, Yuzhen Niu, Feng Liu
+  <br>
+  In ACM CHI, 2013 <font color="red">(Best paper honorable mention award)</font>
+  </p>
+</div>
+<div style="clear:both"/></div>
+
+
+
+<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
+  <img src="img/hotspot.jpg" width="70%" height="70%">
+</div>
+<div style="display:inline-block; max-width:75%;vertical-align: top;">
+  <p>
+  <a href = "http://web.cecs.pdx.edu/~fliu/project/summagator" target="_blank">
+  Video Summagator: An Interface for Video Summarization and Navigation</a>
+  <br>
+  Cuong Nguyen, Yuzhen Niu, Feng Liu
+  <br>
+  In ACM CHI, 2012 
   </p>
 </div>
 <div style="clear:both"/></div>
