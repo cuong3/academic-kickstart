@@ -41,7 +41,7 @@ exclude_selected = false
 
 
 <div style="display:inline-block; max-width:25%; align: center;vertical-align: top;" >
-  <img src="img/depthconflict.png">
+  <img src="img/depthconflict.png" width="70%" height="70%">
 </div>
 <div style="display:inline-block;max-width:75%;vertical-align: top;">
   <p>
