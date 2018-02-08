@@ -39,7 +39,6 @@ exclude_selected = false
 
 +++
 
-
 <div style="display:inline-block; max-width:25%; align: center;vertical-align: top;" >
   <img src="img/depthconflict.png" width="70%" height="70%">
 </div>
@@ -54,6 +53,8 @@ exclude_selected = false
 </div>
 <div style="clear:both"/></div>
 
+
+
 <div style="display:inline-block; max-width:25%; align: center;vertical-align: top;" >
   <img src="img/collavr.jpg" width="70%" height="70%">
 </div>
@@ -67,6 +68,8 @@ exclude_selected = false
   </p>
 </div>
 <div style="clear:both"/></div>
+
+
 
 <div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
   <img src="img/vremiere.png" width="70%" height="70%">
@@ -83,6 +86,7 @@ exclude_selected = false
 <div style="clear:both"/></div>
 
 
+
 <div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
   <img src="img/GazeNoter_small.png" width="70%" height="70%">
 </div>
@@ -97,6 +101,8 @@ exclude_selected = false
 </div>
 <div style="clear:both"/></div>
 
+
+
 <div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
   <img src="img/tutordmvnicon_small.png" width="70%" height="70%">
 </div>
@@ -107,6 +113,25 @@ exclude_selected = false
   Cuong Nguyen, Feng Liu. 
   <br>
   In ACM CHI, 2015. <font color="red">(Best paper honorable mention award)</font>
+  </p>
+</div>
+<div style="clear:both"/></div>
+
+
+
+<div style="display:inline-block; max-width:25%;  align: center;vertical-align: top;" >
+  <img src="img/hotspot.jpg" width="70%" height="70%">
+</div>
+<div style="display:inline-block; max-width:75%;vertical-align: top;">
+  <p>
+  <a href = "http://web.cecs.pdx.edu/~fliu/project/hotspot/" target="_blank">
+  Hotspot: Making Computer Vision More Effective for Human Video Surveillance </a>
+  <br>
+  Cuong Nguyen, Wu-chi Feng, Feng Liu
+  <br>
+  Information Visualization
+  <br>
+  {{% staticref "http://web.cecs.pdx.edu/~fliu/project/hotspot/ %}}Project{{% /staticref %}}.
   </p>
 </div>
 <div style="clear:both"/></div>
