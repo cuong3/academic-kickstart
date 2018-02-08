@@ -55,8 +55,8 @@ exclude_selected = false
 </div>
 <div style="clear:both"/></div>
 
-[My CV asd]({{< ref "about.md" >}})
-[Another section]({{< relref "project/chi2018_depthconflict.md" >}})
+[My CV asd]({{< ref "test.md" >}})
+[Another section]({{< relref "test.md" >}})
 
 
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
