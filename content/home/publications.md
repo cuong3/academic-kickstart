@@ -50,12 +50,11 @@ exclude_selected = false
   <br>
   In ACM CHI, 2018.
   <br>
-  [My CV asd]({{< ref "project/test.md" >}})
+  [My CV asd]({{< ref "project/chi2018_depthconflict.md" >}})
   </p>
 </div>
 <div style="clear:both"/></div>
-
-[My CV asd]({{< ref "about.md" >}})
+[My CV asd]({{< ref "project/chi2018_depthconflict.md" >}})
 
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
   <img src="img/collavr.jpg" width="70%" height="70%">
