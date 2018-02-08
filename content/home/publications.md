@@ -44,7 +44,7 @@ exclude_selected = false
 </div>
 <div style="display:inline-block; float: right; width:75%;vertical-align: top;">
   <p>
-  <a href = "http://web.cecs.pdx.edu/~fliu/project/gazenote/" target="_blank">Depth Conflict Reduction for Stereo VR Video Interfaces</a> 
+  [Depth Conflict Reduction for Stereo VR Video Interfaces]({{< ref "project_chi2018.md" >}})
   <br>
   Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
   <br>
@@ -55,8 +55,7 @@ exclude_selected = false
 </div>
 <div style="clear:both"/></div>
 
-[My CV asd]({{< ref "test.md" >}})
-[Another section]({{< relref "test.md" >}})
+
 
 
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
