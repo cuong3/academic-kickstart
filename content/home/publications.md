@@ -55,7 +55,7 @@ exclude_selected = false
 </div>
 <div style="clear:both"/></div>
 
-[My CV asd]{{< ref "about.md" >}}
+[My CV asd]({{< ref "about.md" >}})
 
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
   <img src="img/collavr.jpg" width="70%" height="70%">
