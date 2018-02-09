@@ -8,8 +8,7 @@ Applications for viewing and editing 360° video often render user interface (UI
 
 <center>
 Cuong Nguyen<sup>1,2</sup>, Feng Liu<sup>1</sup>, Stephen DiVerdi<sup>2</sup>, Aaron Hertzmann<sup>2</sup> <br>
-<sup>1</sup>Portland State University <br>
-<sup>2</sup>Adobe Research <br>
+<sup>1</sup>Portland State University, &emsp;<sup>2</sup>Adobe Research <br>
 </center>
 
 
