@@ -48,7 +48,7 @@ exclude_selected = false
   <br>
   Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
   <br>
-  In ACM CHI, 2018.
+  In ACM CHI, 2018
   <br> 
   </p>
 </div>
@@ -66,7 +66,7 @@ exclude_selected = false
   <br>
   Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu
   <br>
-  In ACM UIST, 2017.
+  In ACM UIST, 2017
   </p>
 </div>
 <div style="clear:both"/></div>
