@@ -14,6 +14,12 @@ weight = 5
     "Virtual Reality"
   ]
 
+ [updates]
+   updates = [
+    "Human-Computer Interaction",
+    "Virtual Reality"
+  ]
+
 # List your qualifications (such as academic degrees).
  
 +++
