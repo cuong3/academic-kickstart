@@ -1,5 +1,5 @@
 +++
-title = "Updates & Links"
+title = "Links"
 date = 2017-01-01
 widgets = true
 
@@ -7,10 +7,6 @@ widgets = true
 weight = 65
 
 +++
-#### Updates:
-4/22/2018: 
-
-
 #### Collaborators:
 [Feng Liu ](http://web.cecs.pdx.edu/~fliu/)
 
