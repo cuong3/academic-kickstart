@@ -10,7 +10,7 @@ weight = 10
 #### Updates:
 **4/22/2018**: I'll be attending CHI 2018 remotely on Sunday (4&#47;22) and Monday (4&#47;23). Say hi to my Beam robot! :-)
 
-**4/3/2018**: Parts of our [Vremiere paper](http://web.cecs.pdx.edu/~fliu/project/vremiere/) have been integrated into Premiere Pro (via [vrscout](https://vrscout.com/news/adobe-launches-immersive-360-editing-improves-plane-to-sphere/)).
+**4/3/2018**: Parts of our [CHI 2017 paper on VR video editing](http://web.cecs.pdx.edu/~fliu/project/vremiere/) have been integrated into Premiere Pro (via [vrscout](https://vrscout.com/news/adobe-launches-immersive-360-editing-improves-plane-to-sphere/)).
 
 
 
