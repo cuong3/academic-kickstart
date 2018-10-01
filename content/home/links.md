@@ -21,7 +21,7 @@ weight = 65
 #### Students/Interns:
 [Balasaravanan Kumaravel (UC Berkeley)](https://www.tkbala.com/)
 
-[Roberto Montano (University of Sussex)] (http://interact-lab.com/pf/roberto-montano/)
+[Roberto Montano (University of Sussex)](http://interact-lab.com/pf/roberto-montano/)
 
 
 
