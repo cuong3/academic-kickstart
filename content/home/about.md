@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Human-Computer Interaction",
-    "Virtual Reality/Augmented Reality"
+    "Virtual Reality"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -19,10 +19,10 @@ weight = 5
 +++
 
 # Biography
-I'm a research scientist at [Adobe's Creative Intelligence Lab](https://research.adobe.com/), San Francisco, California.
+I received my PhD in Computer Science in Fall 2017. I am advised by [Professor Feng Liu](http://web.cecs.pdx.edu/~fliu/) in the [Computer Graphics & Vision Lab](http://graphics.cs.pdx.edu/) at Portland State University.
 
-I received my PhD in Computer Science in Fall 2017. I am advised by [Professor Feng Liu](http://web.cecs.pdx.edu/~fliu/) in the [Computer Graphics & Vision Lab](http://graphics.cs.pdx.edu/) at Portland State University. 
+My research is in Human-Computer Interaction. My PhD's research theme explores novel visualization and interaction techniques for video. Most recently, I've been exploring Virtual Reality interfaces to support media production. My research has received **Best Paper Honorable Mention** awards at ACM CHI 2013, 2015, and 2017.
 
-My research lies at the intersection of Human-Computer Interaction and Virtual Reality. My PhD's dissertation explores [360 degree video authoring tools in VR](https://pdxscholar.library.pdx.edu/open_access_etds/4037/). Some parts of this work have been ]integrated into Adobe Premiere](https://helpx.adobe.com/premiere-pro/using/immersive-video.html). Before that, I focused on developing direct interactions techniques for video. My research has received **Best Paper Honorable Mention** awards at ACM CHI 2013, 2015, and 2017.
+Starting November 2017, I'm a research scientist at [Adobe's Creative Intelligence Lab](https://research.adobe.com/), San Francisco, California.
 
 {{% staticref "files/CV(Jan 2018).pdf" %}}[CV (updated Jan 2018)]{{% /staticref %}}
