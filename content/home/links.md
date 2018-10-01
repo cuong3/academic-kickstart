@@ -8,14 +8,20 @@ weight = 65
 
 +++
 #### Collaborators:
-[Feng Liu ](http://web.cecs.pdx.edu/~fliu/)
+[Feng Liu (Portland State University)](http://web.cecs.pdx.edu/~fliu/)
 
-[Wu-chi Feng](http://web.cecs.pdx.edu/~wuchi/)
+[Wu-chi Feng (Portland State University)](http://web.cecs.pdx.edu/~wuchi/)
 
-[Stephen DiVerdi](http://www.stephendiverdi.com/)
+[Stephen DiVerdi (Adobe)](http://www.stephendiverdi.com/)
 
-[Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/)
+[Aaron Hertzmann (Adobe)](https://www.dgp.toronto.edu/~hertzman/)
 
+[Dongwook Yoon (University of British Columbia)](http://dwyoon.com)
+
+#### Students/Interns:
+[Balasaravanan Kumaravel (UC Berkeley)](https://www.tkbala.com/)
+
+[Roberto Montano (University of Sussex)] (http://interact-lab.com/pf/roberto-montano/)
 
 
 
