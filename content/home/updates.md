@@ -8,9 +8,11 @@ weight = 10
 
 +++
 #### Updates:
+**12/10/2018**: Our paper "Tutorivr: A video-based tutorial system for design applications in Virtual Reality" has been conditionally accepted to CHI. More details coming soon.
+
 **11/6/2018**: I'll give a HCI seminar talk titled "Designing In-Headset Authoring Tools for Virtual Reality Video" at [UC Berkeley](http://schedule.bid-seminar.com/speakers/141) (on 11/6) and Stanford (on 11/7).
 
-**10/29/2018**: Attended [XRDC](http://www.xrdconf.com/) in San Francisco.
+**10/29/2018**: Attending [XRDC](http://www.xrdconf.com/) in San Francisco.
 
 **4/22/2018**: I'll be attending [CHI 2018](http://chi2018.acm.org/) remotely on Sunday (April 22) and Monday (April 23). Say hi to my Beam robot! :-)
 
