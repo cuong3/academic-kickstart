@@ -38,6 +38,21 @@ exclude_selected = false
 
 
 +++
+<div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
+  <img src="img/tutorivr.jpg" width="70%" height="70%">
+</div>
+<div style="display:inline-block; float: right; width:75%;vertical-align: top;">
+  <p>
+  <a href = "https://www.tkbala.com/tutorivr" target="_blank">TutoriVR: A Video-Based Tutorial System for Design Applications in Virtual Reality</a> 
+  <br>
+  Balasaravanan Thoravi Kumaravel, Cuong Nguyen, Stephen DiVerdi Adobe, Bjoern Hartmann
+  <br>
+  In ACM CHI, 2019
+  <br> 
+  </p>
+</div>
+<div style="clear:both"/></div>
+
 
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
   <img src="img/depthconflict.png" width="70%" height="70%">
