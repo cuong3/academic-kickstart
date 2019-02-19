@@ -45,7 +45,7 @@ exclude_selected = false
   <p>
   <a href = "https://www.tkbala.com/tutorivr" target="_blank">TutoriVR: A Video-Based Tutorial System for Design Applications in Virtual Reality</a> 
   <br>
-  Balasaravanan Thoravi Kumaravel, Cuong Nguyen, Stephen DiVerdi Adobe, Bjoern Hartmann
+  Balasaravanan Thoravi Kumaravel, Cuong Nguyen, Stephen DiVerdi, Bjoern Hartmann
   <br>
   In ACM CHI, 2019
   <br> 
