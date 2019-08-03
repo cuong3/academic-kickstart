@@ -8,6 +8,8 @@ weight = 10
 
 +++
 #### Updates:
+**8/2/2019**: Our paper on asynchronous VR collaboration has been accepted to CSCW 2019. Details coming soon. 
+
 **12/10/2018**: Our paper "Tutorivr: A video-based tutorial system for design applications in Virtual Reality" has been accepted to CHI 2019. 
 
 **11/6/2018**: I'll give a HCI seminar talk titled "Designing In-Headset Authoring Tools for Virtual Reality Video" at [UC Berkeley](http://schedule.bid-seminar.com/speakers/141) (on 11/6) and Stanford (on 11/7).

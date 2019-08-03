@@ -18,10 +18,6 @@ weight = 65
 
 [Dongwook Yoon (University of British Columbia)](http://dwyoon.com)
 
-#### Students/Interns:
-[Balasaravanan Kumaravel (UC Berkeley)](https://www.tkbala.com/)
-
-[Roberto Montano (University of Sussex)](http://interact-lab.com/pf/roberto-montano/)
 
 
 
