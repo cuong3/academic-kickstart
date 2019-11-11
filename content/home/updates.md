@@ -8,6 +8,8 @@ weight = 10
 
 +++
 #### Updates:
+**11/5/2019**: I demoed our latest AR research [#ProjectPronto](https://www.youtube.com/watch?v=5QsvjrbKeI4) at Adobe Max 2019. Hey I'm also looking for research interns next summer to work on AR/VR. Please reach out!
+
 **10/20/2019**: Attending [UIST 2019](http://uist.acm.org/uist2019/) in New Orleans.
 
 **08/02/2019**: Our paper on asynchronous VR collaboration has been accepted to CSCW 2019. Details coming soon. 
