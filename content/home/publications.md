@@ -43,7 +43,7 @@ exclude_selected = false
 </div>
 <div style="display:inline-block; float: right; width:75%;vertical-align: top;">
   <p>
-  <a href = "" target="_blank">Challenges and Design Considerations for Multimodal Asynchronous Collaboration in VR</a> 
+  <a href = "https://dl.acm.org/citation.cfm?id=3359142" target="_blank">Challenges and Design Considerations for Multimodal Asynchronous Collaboration in VR</a> 
   <br>
   Kevin Chow, Caitlin Coyiuto, Cuong Nguyen, Dongwook Yoon 
   <br>

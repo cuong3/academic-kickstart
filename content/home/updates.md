@@ -12,7 +12,7 @@ weight = 10
 
 **10/20/2019**: Attending [UIST 2019](http://uist.acm.org/uist2019/) in New Orleans.
 
-**08/02/2019**: Our paper on asynchronous VR collaboration has been accepted to CSCW 2019. Details coming soon. 
+**08/02/2019**: Our paper on asynchronous VR collaboration has been accepted to CSCW 2019. [ACM link](https://dl.acm.org/citation.cfm?id=3359142) (Open Access). Caitlin put together a [nice summary](https://www.coyiutoc.com/asyncvr.html) of her contributions to the project, awesome work Kevin & Caitlin! 
 
 **12/10/2018**: Our paper "Tutorivr: A video-based tutorial system for design applications in Virtual Reality" has been accepted to CHI 2019. 
 
