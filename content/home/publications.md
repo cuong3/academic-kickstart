@@ -39,6 +39,37 @@ exclude_selected = false
 
 +++
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
+  <img src="img/pronto.png" width="70%" height="70%">
+</div>
+<div style="display:inline-block; float: right; width:75%;vertical-align: top;">
+  <p>
+  <a href = "" target="_blank">Pronto: Rapid Augmented Reality Video Prototyping Using Sketches and Enaction</a> 
+  <br>
+  German Leiva, Cuong Nguyen, Rubaiat Habib Kazi, Paul Asente 
+  <br>
+  In ACM CHI, 2020
+  <br> 
+  </p>
+</div>
+<div style="clear:both"/></div>
+
+<div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
+  <img src="img/vrselection.png" width="70%" height="70%">
+</div>
+<div style="display:inline-block; float: right; width:75%;vertical-align: top;">
+  <p>
+  <a href = "" target="_blank">Slicing Volume: Hybrid 3D/2D Multi target Selection Technique for Dense Virtual Environments</a> 
+  <br>
+ Roberto A. Montano-Murillo, Cuong Nguyen, Rubaiat Habib Kazi, Sriram Subramanian, Stephen DiVerdi, Diego Martinez-Plasencia1
+  <br>
+  In IEEE VR, 2020 (Conference Paper)
+  <br> 
+  </p>
+</div>
+<div style="clear:both"/></div>
+
+
+<div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
   <img src="img/AsyncVR_small.png" width="70%" height="70%">
 </div>
 <div style="display:inline-block; float: right; width:75%;vertical-align: top;">

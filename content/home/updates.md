@@ -8,6 +8,10 @@ weight = 10
 
 +++
 #### Updates:
+**2/3/2020**: One paper accepted to CHI 2020 and one paper accepted to IEEE VR 2020 (conference track). Details coming soon. 
+
+**1/2/2020**: On paternity leave until end of April for my second son Irvin!
+
 **12/6/2019**: Served as AC for the [CHI 2020](https://chi2020.acm.org/authors/papers/selecting-a-subcommittee/#Engineering-Interactive-Systems-and-Technologies) Engineering Interactive Systems and Technologies subcommittee.
 
 **11/5/2019**: I demoed our latest AR research [#ProjectPronto](https://www.youtube.com/watch?v=5QsvjrbKeI4) at Adobe Max 2019. Hey I'm also looking for research interns next summer to work on AR/VR. Please reach out!
