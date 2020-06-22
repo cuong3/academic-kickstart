@@ -28,4 +28,4 @@ My research lies at the intersection of Human-Computer Interaction and VR/AR. I'
 My PhD's dissertation explores [360 degree video authoring tools in VR](https://pdxscholar.library.pdx.edu/open_access_etds/4037/). I helped [ship some parts of this work into Adobe Premiere and After Effects](https://helpx.adobe.com/premiere-pro/using/immersive-video.html).
 
 
-{{% staticref "files/CV_Jan_2020.pdf.pdf" %}}[CV (updated Jan 2020)]{{% /staticref %}}
+{{% staticref "files/CV_Jan_2020.pdf" %}}[CV (updated Jan 2020)]{{% /staticref %}}

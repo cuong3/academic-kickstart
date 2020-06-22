@@ -8,7 +8,9 @@ weight = 10
 
 +++
 #### Updates:
-**2/3/2020**: One paper accepted to CHI 2020 and one paper accepted to IEEE VR 2020 (conference track). Details coming soon. 
+**6/22/2020**: Two VR papers accepted to UIST 2020. Details coming soon.
+
+**2/3/2020**: One paper accepted to CHI 2020 and one paper accepted to IEEE VR 2020 (conference track). 
 
 **1/2/2020**: On paternity leave until end of April for my second son Irvin!
 

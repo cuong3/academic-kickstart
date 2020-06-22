@@ -43,7 +43,7 @@ exclude_selected = false
 </div>
 <div style="display:inline-block; float: right; width:75%;vertical-align: top;">
   <p>
-  <a href = "" target="_blank">Pronto: Rapid Augmented Reality Video Prototyping Using Sketches and Enaction</a> 
+  <a href = "https://dl.acm.org/doi/abs/10.1145/3313831.3376160" target="_blank">Pronto: Rapid Augmented Reality Video Prototyping Using Sketches and Enaction</a> 
   <br>
   German Leiva, Cuong Nguyen, Rubaiat Habib Kazi, Paul Asente 
   <br>
@@ -58,7 +58,7 @@ exclude_selected = false
 </div>
 <div style="display:inline-block; float: right; width:75%;vertical-align: top;">
   <p>
-  <a href = "" target="_blank">Slicing Volume: Hybrid 3D/2D Multi target Selection Technique for Dense Virtual Environments</a> 
+  <a href = "https://ieeexplore.ieee.org/abstract/document/9089663" target="_blank">Slicing Volume: Hybrid 3D/2D Multi target Selection Technique for Dense Virtual Environments</a> 
   <br>
  Roberto A. Montano-Murillo, Cuong Nguyen, Rubaiat Habib Kazi, Sriram Subramanian, Stephen DiVerdi, Diego Martinez-Plasencia1
   <br>
