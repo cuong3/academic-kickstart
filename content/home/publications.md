@@ -39,6 +39,36 @@ exclude_selected = false
 
 +++
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
+  <img src="img/TransceiVR.png" width="70%" height="70%">
+</div>
+<div style="display:inline-block; float: right; width:75%;vertical-align: top;">
+  <p>
+  <a href = "https://www.tkbala.com/transceivr" target="_blank">TransceiVR: Bridging Asymmetrical Communication Between External and VR Users</a> 
+  <br>
+  Balasaravanan Thoravi Kumaravel, Cuong Nguyen, Stephen DiVerdi, Bjoern Hartmann 
+  <br>
+  In ACM UIST, 2020
+  <br> 
+  </p>
+</div>
+<div style="clear:both"/></div>
+
+<div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
+  <img src="img/ViewDependent360.png" width="70%" height="70%">
+</div>
+<div style="display:inline-block; float: right; width:75%;vertical-align: top;">
+  <p>
+  <a href = "https://jjhartmann.github.io/ViewDependentEffects/" target="_blank">View-Dependent Effects For 360 Virtual Reality Video</a> 
+  <br>
+  Jeremy Hartmann, Stephen DiVerdi, Cuong Nguyen, Daniel Vogel  
+  <br>
+  In ACM UIST, 2020
+  <br> 
+  </p>
+</div>
+<div style="clear:both"/></div>
+
+<div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
   <img src="img/pronto.png" width="70%" height="70%">
 </div>
 <div style="display:inline-block; float: right; width:75%;vertical-align: top;">
