@@ -8,7 +8,8 @@ weight = 10
 
 +++
 #### Updates:
-**6/22/2020**: Two VR papers accepted to UIST 2020. Details coming soon.
+**11/20/2020**: Presented a talk titled "On-device creative authoring for virtual and augmented reality" at the George Mason University's [Distinguished Lecture Series](https://cs.gmu.edu/about/distinguished-lecture-series/).
+**6/22/2020**: Two VR papers accepted to UIST 2020. 
 
 **2/3/2020**: One paper accepted to CHI 2020 and one paper accepted to IEEE VR 2020 (conference track). 
 
