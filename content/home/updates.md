@@ -8,7 +8,7 @@ weight = 10
 
 +++
 #### Updates:
-**1/5/2020**: One AR paper accepted to CHI 20201 We explored using 3D scanning to enable remote AR authoring. Details comming soon.
+**1/5/2021**: One AR paper accepted to CHI 20201 We explored using 3D scanning to enable remote AR authoring.
 
 **11/20/2020**: Presented a talk titled "On-device creative authoring for virtual and augmented reality" at the George Mason University's [Distinguished Lecture Series](https://cs.gmu.edu/about/distinguished-lecture-series/).
 
