@@ -39,6 +39,22 @@ exclude_selected = false
 
 +++
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
+  <img src="img/distanciar.jpg" width="70%" height="70%">
+</div>
+<div style="display:inline-block; float: right; width:75%;vertical-align: top;">
+  <p>
+  <a href = "https://graphics.cs.yale.edu/sites/default/files/distanciar.pdf" target="_blank">DistanciAR: Authoring Site-Specific Augmented Reality Experiences for Remote Environments</a> 
+  <br>
+  Zeyu Wang, Cuong Nguyen, Paul Asente, Julie Dorsey
+  <br>
+  In ACM CHI, 2021
+  <br> 
+  </p>
+</div>
+<div style="clear:both"/></div>
+
+
+<div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
   <img src="img/TransceiVR.png" width="70%" height="70%">
 </div>
 <div style="display:inline-block; float: right; width:75%;vertical-align: top;">
@@ -52,6 +68,7 @@ exclude_selected = false
   </p>
 </div>
 <div style="clear:both"/></div>
+
 
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
   <img src="img/ViewDependent360.png" width="70%" height="70%">
@@ -68,6 +85,7 @@ exclude_selected = false
 </div>
 <div style="clear:both"/></div>
 
+
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
   <img src="img/pronto.png" width="70%" height="70%">
 </div>
@@ -82,6 +100,7 @@ exclude_selected = false
   </p>
 </div>
 <div style="clear:both"/></div>
+
 
 <div style="display:inline-block; float: left; width:25%; align: center;vertical-align: top;" >
   <img src="img/vrselection.png" width="70%" height="70%">
