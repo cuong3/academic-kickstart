@@ -8,6 +8,10 @@ weight = 10
 
 +++
 #### Updates:
+**5/2021**: I'll be attending CHI virtually. Feel free to reach out to chat. I'm always eager to talk about potential internship & collaboration opportunites. 
+
+**4/2021**: Invited to speak at various graduate level HCI & computational video classes at University of British Columbia (from Prof. Dongwook Yoon), Yale University (from Prof. Julie Dorsey), and Portland State Universit (from my former PhD advisor Prof. Feng Liu).
+
 **1/5/2021**: One AR paper accepted to CHI 20201 We explored using 3D scanning to enable remote AR authoring.
 
 **11/20/2020**: Presented a talk titled "On-device creative authoring for virtual and augmented reality" at the George Mason University's [Distinguished Lecture Series](https://cs.gmu.edu/about/distinguished-lecture-series/).
