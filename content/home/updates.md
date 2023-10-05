@@ -8,7 +8,9 @@ weight = 10
 
 +++
 #### Updates:
-**5/2021**: I'll be attending CHI virtually. Feel free to reach out to chat. I'm always eager to talk about potential internship & collaboration opportunites. 
+**10/2023**: Attending UIST 2023 in San Francisco.
+
+**5/2021**: I'll be attending CHI virtually. Feel free to reach out to chat. I'm always eager to talk about potential internship & collaboration opportunites.
 
 **4/2021**: Invited to speak at various graduate level HCI & computational video classes at University of British Columbia (from Prof. Dongwook Yoon), Yale University (from Prof. Julie Dorsey), and Portland State Universit (from my former PhD advisor Prof. Feng Liu).
 
@@ -16,9 +18,9 @@ weight = 10
 
 **11/20/2020**: Presented a talk titled "On-device creative authoring for virtual and augmented reality" at the George Mason University's [Distinguished Lecture Series](https://cs.gmu.edu/about/distinguished-lecture-series/).
 
-**6/22/2020**: Two VR papers accepted to UIST 2020. 
+**6/22/2020**: Two VR papers accepted to UIST 2020.
 
-**2/3/2020**: One paper accepted to CHI 2020 and one paper accepted to IEEE VR 2020 (conference track). 
+**2/3/2020**: One paper accepted to CHI 2020 and one paper accepted to IEEE VR 2020 (conference track).
 
 **1/2/2020**: On paternity leave until end of April for my second son Irvin!
 
@@ -28,9 +30,9 @@ weight = 10
 
 **10/20/2019**: Attending [UIST 2019](http://uist.acm.org/uist2019/) in New Orleans.
 
-**08/02/2019**: Our paper on asynchronous VR collaboration has been accepted to CSCW 2019. [ACM link](https://dl.acm.org/citation.cfm?id=3359142) (Open Access). Caitlin put together a [nice summary](https://www.coyiutoc.com/asyncvr.html) of her contributions to the project, awesome work Kevin & Caitlin! 
+**08/02/2019**: Our paper on asynchronous VR collaboration has been accepted to CSCW 2019. [ACM link](https://dl.acm.org/citation.cfm?id=3359142) (Open Access). Caitlin put together a [nice summary](https://www.coyiutoc.com/asyncvr.html) of her contributions to the project, awesome work Kevin & Caitlin!
 
-**12/10/2018**: Our paper "Tutorivr: A video-based tutorial system for design applications in Virtual Reality" has been accepted to CHI 2019. 
+**12/10/2018**: Our paper "Tutorivr: A video-based tutorial system for design applications in Virtual Reality" has been accepted to CHI 2019.
 
 **11/06/2018**: I'll give a HCI seminar talk titled "Designing In-Headset Authoring Tools for Virtual Reality Video" at [UC Berkeley](http://schedule.bid-seminar.com/speakers/141) (on 11/6) and Stanford (on 11/7).
 
